@@ -3,7 +3,8 @@
 
 ![Reddit_clone_Architecture](https://github.com/user-attachments/assets/86a64a36-bd33-4919-8be6-bb032c6eda1d)
 
-It covers things like -
+This project covers below mentioned tasks:
+
 1) Creating Severs one for CI and one for Deployment.
 2) Creating the Docker Image of the Project.
 3) Pushing the Image to DockerHub.
